@@ -3,7 +3,9 @@
 //Download poi-3.17.jar
 //Download poi-ooxml-3.17.jar
 //Download poi-ooxml-schemas-3.17.jar
-//Download xmlbeans-2.6.0.jar Click Here
+//Download xmlbeans-2.6.0.jar
+
+//This is the script used to process xlsx file
 
 import java.io.File;
 import java.io.FileInputStream;
